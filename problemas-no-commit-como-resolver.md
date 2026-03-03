@@ -1,4 +1,4 @@
-## 🧭 PASSO A PASSO – Corrigindo erro de sincronização no GitHub (branches divergentes)
+## 🧭 PASSO A PASSO – Corrigindo erro de sincronização no GitHub (branches divergentes).
 
 ### 🧩 Situação:
 
