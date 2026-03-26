@@ -1,3 +1,5 @@
+## KANBAN DE PROJETOS: <a href="https://github.com/users/evssousa/projects/7">CLIQUE AQUI</a>
+
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
