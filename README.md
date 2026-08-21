@@ -17,52 +17,30 @@ Complete o exercício no tempo estimado.
 
 # Atividades e Projetos
 
-### Programação Web
-- Projeto Pessoal: Desenvolver um sistema com React utilizando os conteúdos demonstrados em aula, que resolva um PROBLEMA PESSOAL DA EQUIPE.
-Previsão para 10-jun | Quantidade de Indivíduos: 3 pessoas (5-10 min de apresentação)
-- Prova Bimestral: previsão para 17-jun
-- ✅ **Projeto 1 - Desenvolvimento de Página Institucional em HTML**<br>
-Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
-- ✅ **Projeto 2 - Sistema de Cadastro e Listagem de Alunos**<br>
-Prazo de Entrega 1: 04-mar (2,5 pt) | Prazo de Entrega 2: 08-mar (1,5 pt)
-- ✅ **Projeto 3 - Página de Perfil Profissional**<br>
-Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
-- ✅ **Projeto 4 - Sistema de Lista de Tarefas**<br>
-Prazo de Entrega 1: 30-mar (2,5 pt) | Prazo de Entrega 2: 05-abr (1,5 pt)
-- ⚠️ **Projeto 5 - Primeiro Site com React**<br>
-Prazo de Entrega 1: 03-mai (2,5 pt) | Prazo de Entrega 2: 05-mai (1,5 pt)
-
-#### | CONTEÚDOS PARA A PROVA
-```
--
-```
-
-### Análise e Projeto de Sistemas
-- Projeto Pessoal: - 
-Previsão para - | Quantidade de Indivíduos: - (- min de apresentação)
+### Programação Orientada à Objetos
+- Projeto Pessoal: -.
+Previsão para - | Quantidade de Indivíduos: -
 - Prova Bimestral: previsão para -
-- ✅ **Projeto 1 - Desenvolvimento de Sistema de Agendamento Escolar**<br>
-Prazo de Entrega 1: 05-mar (5 pt) | Prazo de Entrega 2: 09-mar (3 pt)
-- ✅ **Projeto 2 - Desenvolvimento de um Protótipo de Site para Divulgação de Curso**<br>
-Prazo de Entrega 1: 31-mar (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
+- ✅ **Projeto 1 - Sistema de Biblioteca**<br>
+Prazo de Entrega 1: 17-ago (2,5 pt) | Prazo de Entrega 2: 20-ago (1,5 pt)
 
 #### | CONTEÚDOS PARA A PROVA
 ```
--
+Aguarde...
 ```
 
 ### Gestão de Startup I
-- Projeto Pessoal: - 
-Previsão para - | Quantidade de Indivíduos: - (- min de apresentação)
+- Projeto Pessoal: -
+Previsão para - | Quantidade de Indivíduos: -
 - Prova Bimestral: previsão para -
-- ✅ **Projeto 1 - Experiência em uma startup**<br>
-Prazo de Entrega 1: 04-mar (5 pt) | Prazo de Entrega 2: 12-mar (3 pt)
-- ✅ **Projeto 2 - O Gato Comeu meu Código-Fonte**<br>
-Prazo de Entrega 1: 26-mar (5 pt) | Prazo de Entrega 2: 02-abr (3 pt)
+- ✅ **-**<br>
 
 #### | CONTEÚDOS PARA A PROVA
 ```
--
+Aguarde...
 ```
 
-OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
+✅ Projeto corrigido
+⚠️ Projeto à ser corrigido
+
+OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da da próxima aula da semana, ou seja, exercícios na quarta, devem ser entregues na terça. Caso o aluno não tenha completado os exercícios, terá desconto na nota Qualitativa.
